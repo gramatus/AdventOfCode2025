@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",
+    "noImplicitAny": true,
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "esModuleInterop": false,
+    "target": "ESNext",
+    "lib": ["ESNext"],
+    "isolatedModules": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "strictNullChecks": true,
+    "noUncheckedIndexedAccess": true,
+    "skipLibCheck": true
+  }
+}
