@@ -364,3 +364,7 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+
+# Ignore temp folder
+temp/
+
